@@ -6,7 +6,7 @@
 
 **cPanel List Format:** https://domain.com:2083|user|pass
 
-**Shell List Format:** https:// domain.com/shell.php
+**Shell List Format:** https://domain.com/shell.php
 
 **SMTP List Format:** domain.com|587|user@domain.com|password
 

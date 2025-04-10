@@ -2,6 +2,16 @@
 
 **GhostCrack** is a multi-functional penetration testing and automation tool, designed for rapid exploitation and validation of web services.
 
+**📝 List Format**
+
+**cPanel List Format:** https://domain.com:2083|user|pass
+
+**Shell List Format:** https:// domain.com/shell.php
+
+**SMTP List Format:** domain.com|587|user@domain.com|password
+
+**WHM List Format:** https://domain:2087|root|pass
+
 ---
 
 ## 🔓 What GhostCrack Cracks
